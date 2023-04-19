@@ -1,0 +1,45 @@
+[0 1 1 1 1]
+0.5714285714285715
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            165.653846        1502.923077            26.884615
+median           73.000000         955.000000            14.000000
+std             284.033229        2192.644958            31.353886
+execution_time: [0.3887600080000002, 1.0590949619999996] 
+ missing_values: [0.0, 0.0, 0.0, 0.0, 0.0] 
+ outdated_packages: Package            Version     Latest  Type
+------------------ ----------- ------- -----
+beautifulsoup4     4.12.0      4.12.2  wheel
+Bottleneck         1.3.5       1.3.7   wheel
+cryptography       39.0.1      40.0.2  wheel
+debugpy            1.5.1       1.6.7   wheel
+fastapi            0.95.0      0.95.1  wheel
+httpcore           0.16.3      0.17.0  wheel
+httpx              0.23.3      0.24.0  wheel
+importlib-metadata 6.1.0       6.3.0   wheel
+ipykernel          6.19.2      6.22.0  wheel
+json5              0.9.5       0.9.11  wheel
+jupyter_client     8.1.0       8.2.0   wheel
+jupyter-server     1.23.4      2.5.0   wheel
+jupyterlab         3.5.0       3.6.3   wheel
+jupyterlab_server  2.22.0      2.22.1  wheel
+MarkupSafe         2.1.1       2.1.2   wheel
+nbclassic          0.5.4       0.5.5   wheel
+nbconvert          7.3.0       7.3.1   wheel
+notebook           6.5.3       6.5.4   wheel
+numpy              1.23.5      1.24.2  wheel
+packaging          23.0        23.1    wheel
+pandas             1.5.3       2.0.0   wheel
+Pillow             9.4.0       9.5.0   wheel
+pip                23.0.1      23.1    wheel
+psutil             5.9.0       5.9.4   wheel
+pydantic           1.10.2      1.10.7  wheel
+Pygments           2.14.0      2.15.0  wheel
+PyQt5-sip          12.11.0     12.12.0 wheel
+pyrsistent         0.18.0      0.19.3  wheel
+pytest             7.2.2       7.3.1   wheel
+pyzmq              23.2.0      25.0.2  wheel
+rfc3986            1.5.0       2.0.0   wheel
+scipy              1.10.0      1.10.1  wheel
+sip                6.6.2       6.7.8   wheel
+soupsieve          2.3.2.post1 2.4     wheel
+uvicorn            0.20.0      0.21.1  wheel
